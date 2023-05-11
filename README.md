@@ -13,8 +13,8 @@
 - [Screenshots](#screenshots)
     - [NewTab](#newtab)
     - [Popup](#popup)
-- [Sample](#sample)
 - [Documents](#documents)
+- [License](#license)
 
 ## Intro <a name="intro"></a>
 
@@ -67,7 +67,7 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 - [Rollup](https://rollupjs.org/guide/en/)
 - [Rollup-plugin-chrome-extension](https://www.extend-chrome.dev/rollup-plugin)
 
-## License
+## License <a name="license"></a>
 
 This is a fork
 from [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
