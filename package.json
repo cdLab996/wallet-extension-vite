@@ -13,7 +13,8 @@
     "build:hmr": "rollup --config utils/reload/rollup.config.ts",
     "wss": "node utils/reload/initReloadServer.js",
     "dev": "npm run build:hmr && (run-p wss build:watch)",
-    "test": "jest"
+    "test": "jest",
+    "prettier:write": "prettier --write \"src/**/*.{ts,tsx}\" \"utils/**/*.{ts,tsx}\""
   },
   "type": "module",
   "dependencies": {
