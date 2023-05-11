@@ -60,11 +60,6 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 
 <img width="314" alt="popup" src="https://user-images.githubusercontent.com/53500778/203561728-23517d46-12e3-4139-8a4f-e0b2f22a6ab3.png">
 
-## Sample <a name="sample"></a>
-
-- https://github.com/Jonghakseo/drag-gpt-extension
-- https://github.com/Jonghakseo/pr-commit-noti
-
 ## Documents <a name="documents"></a>
 
 - [Vite Plugin](https://vitejs.dev/guide/api-plugin.html)
@@ -72,3 +67,7 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 - [Rollup](https://rollupjs.org/guide/en/)
 - [Rollup-plugin-chrome-extension](https://www.extend-chrome.dev/rollup-plugin)
 
+## License
+
+This is a fork
+from [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
